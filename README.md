@@ -1,0 +1,2 @@
+# NormalityStudy
+study of normality
